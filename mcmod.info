@@ -1,0 +1,12 @@
+[{
+    "modid": "rcdusts",
+    "name": "Rock Crusher Metal Dusts Add-On",
+    "description": "Adds metal dust recipes to the Railcraft Rock Crusher without the IC2 dependency, circumvents GregTech TiC ignorance, and more!",
+    "version": "0.0.6d",
+    "mcversion": "1.6.4",
+    "url": "http://www.minecraftforum.net/topic/2030952-",
+    "updateUrl": "",
+    "authors": [ "wha-ha-ha" ],
+    "credits": "Thanks to CovertJaguar for Railcraft and Vswe for helping me learn to mod!",
+    "requiredMods": [ "Forge" , "Railcraft" ]
+}]
